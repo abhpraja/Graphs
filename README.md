@@ -1,8 +1,12 @@
 # Graphs
 
 A graph is a way to visually or mathematically represent relationships or connections between things. It's made up of:
-Nodes (or vertices): These are the things being connected, like points.
-Edges: These are the connections or relationships between the nodes.
+
+Nodes (or vertices): 
+These are the things being connected, like points.
+
+Edges: 
+These are the connections or relationships between the nodes.
 
 Type of graphs:
 Undirected graph: 
