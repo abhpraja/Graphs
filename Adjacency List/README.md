@@ -1,4 +1,4 @@
-Adjacenecy List
+Adjacency List
 
 An adjacency list is a way to represent a graph (a collection of nodes and edges) in a simple and efficient manner.
 
